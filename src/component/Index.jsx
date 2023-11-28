@@ -128,16 +128,29 @@ function Index() {
             <br />
             <p>
               {" "}
-              My name is avinash. I have done 1 years diploma course and Web
-              developer in (NSQF Level 4) WCSC world Class skill center Vivek
-              Vihar Delhi. i have a strong interest in field of web development
-              and i am a very optimistic persony and A challenging job profile
-              that gives me an opportunity to learn, grow and enhance my skills
-              while making I have also worked in a government company.{" "}
-            </p>
-            <button className="bg-black text-white w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
+              My name is avinash. I have done 1 years IT diploma course in Web
+              developer from (NSQF Level 4) WCSC world Class skill center Vivek
+              Vihar Delhi. i also have total experience 3 years and 6 months in 
+              Frontend developer. React Js( Redux, Component Api ,
+Hook, Fetch Api, Props ), ES6,
+JavaScript, CSS 3 Tailwind-CSS,
+Bootstrap4, Git, HTML5, Canva,
+Figma.{" "}</p><br/>
+<p>My strengths are my learning
+attitude, punctuality, and
+interpersonal skills. My field and
+expertise lie in Web Development
+I am looking for an opportunity to
+work in an organization where
+my academic knowledge will be
+utilized for the betterment of that
+organization and my personal
+growth</p>
+
+            
+            {/* <button className="bg-black text-white w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
               Get Started
-            </button>
+            </button> */}
           </div>
         </div>
         {/* <h1 className='text-[#df001e] font-bold text-center text-[30px]'>Graduation</h1> */}
@@ -190,16 +203,21 @@ function Index() {
           >
             <br />
             <div>
-              <h1>
-                Have worked on my freelancer for 1 years (jun 2018 - aug 2019)
-              </h1>
-              <br />
+            <p>AppWars Technologies pvt ltd (Mar 2021 -
+Oct 2023)</p>
+<p>I have worked as a front-end developer (React JS, ES6,
+Javascript, Tailwind CSS, CSS3 , Bootstrap4, HTML5,
+Canva, Github, Figma). I Worked On this.
+Website1 : https://appwarstechnologies.com/,
+website 2 : https://www.booksby.online/</p><br/>
+<p>Gail India Ltd (Sep 2019 - Oct 2020)</p>
+<p>I have worked as a front-end developer of HTML, CSS, and
+JavaScript. On this website: https://www.gailonline.com/</p><br/>
 
-              <h1>Gail India (sep 2019 - oct 2020)</h1>
-              <br />
-
-              <h1>AppWars Technologies (mar 2021 - oct 2023)</h1>
-              <br />
+<p>I have worked as a freelancer for 1 year (Jun
+2018 -Aug 2019)</p>
+<p>I have worked as a front-end developer of HTML, CSS,
+and JavaScript. Canva On the website: reviewforhealth.com</p><br/>
             </div>
           </Collapsible>
         </div>
@@ -601,8 +619,8 @@ function Index() {
           </div>
         </div>
         <h1 className="text-center bg-white">
-          Created by <a className="text-center text-red-400">Avinash</a> | @
-          2021 All right reserved.
+         <a className="text-center text-red-400">Avinash</a>
+          
         </h1>
       </div>
       </div>
